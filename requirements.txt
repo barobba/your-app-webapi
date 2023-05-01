@@ -1,4 +1,4 @@
 
 # TIP: Lock down the version number
 
-flask==1.1.1
+flask==2.3.2
